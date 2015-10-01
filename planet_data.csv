@@ -1,0 +1,10 @@
+name,mass,diameter,length_of_day,distance_from_sun,mean_temperature,number_of_moons,ring_system
+Mercury,0.33,4879,4222.6,57.9,167,0,FALSE
+Venus,4.87,"12,104",2802,108.2,464,0,FALSE
+Earth,5.97,"12,756",24,149.6,15,1,FALSE
+Mars,0.642,6792,24.7,227.9,-65,2,FALSE
+Jupiter,1898,"142,984",9.9,778.6,-110,67,TRUE
+Saturn,568,"120,536",10.7,1433.5,-140,62,TRUE
+Uranus,86.8,"51,118",17.2,2872.5,-195,27,TRUE
+Neptune,102,"49,528",16.1,4495.1,-200,14,TRUE
+Pluto,0.0146,2370,153.3,5906.4,-225,5,FALSE
